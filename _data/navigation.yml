@@ -11,7 +11,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar-category:
+# 추가 - 사이드바
+sidebar-category: 
   - title: "🖤 flutter"
     children:
       - title: "✨ dart"
