@@ -13,7 +13,7 @@ main:
 
 # 추가 - 사이드바
 sidebar-category: 
-  - title: "🖤 flutter"
+  - title: "Test Category A"
     children:
-      - title: "✨ dart"
-        url: "flutter/dart/"
+      - title: "test category a"
+        url: "A/a/"
